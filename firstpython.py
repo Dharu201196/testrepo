@@ -1,2 +1,2 @@
 ## Display the output
-print("Idle Python")
+print("Idle Python as a file")
